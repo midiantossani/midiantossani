@@ -1,6 +1,6 @@
-### Olá! 👋 Eu sou a Midian Tossani
+### Olá! Eu sou a Midian Tossani 👋
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...JavaScript.
 - 📫 How to reach me: ...
 
 <div>
