@@ -1,7 +1,4 @@
-### Olá! Eu sou a Midian Tossani 👋
-
-- 🌱 I’m currently learning ...JavaScript.
-- 📫 How to reach me: ...
+### Oiee! Eu sou a Midian Tossani 👋
 
 <div>
   <a href="https://github.com/midiantossani">
