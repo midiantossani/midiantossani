@@ -1,5 +1,6 @@
 ### Oiee! 
-Eu sou a Midian Tossani 👋
+Me chamo Midian Tossani 👋
+Estou estudando JavaScripte e ReactJS no momento.
 
 <div>
   <a href="https://github.com/midiantossani">
