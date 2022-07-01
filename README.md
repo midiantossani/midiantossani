@@ -46,20 +46,23 @@ Estou estudando JavaScript e ReactJS no momento.
  ##
  
  <div align="center">
-    <i>How to reach me:</i><br>
-    
+   <p><i>How to reach me:</i></p>
    <a href="https://instagram.com/mih_tossani" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
-   
-  <a href="https://www.linkedin.com/in/midian-tossani-38453915b/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
-   <a href="https://discord.gg/uFvFNSNb" target="_blank">
+   <a href="https://wa.me/5512996569014" target="_blank">
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+   </a>
+    <a href="https://discord.gg/uFvFNSNb" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-   </a> 
+    </a> 
+    <a href="https://www.linkedin.com/in/midian-tossani-38453915b/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
    
+   <a href="mailto:midianptossani@hotmail.com">
+     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+   </a>
 
  </div>
   <br>
