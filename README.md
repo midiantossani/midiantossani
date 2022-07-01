@@ -1,5 +1,5 @@
 ### ALÔ! 
-Me chamo Midian Tossani 👋 <br>
+My name is Midian Tossani 👋 <br>
 Estou estudando JavaScript e ReactJS no momento.
 
 <div>
@@ -47,7 +47,7 @@ Estou estudando JavaScript e ReactJS no momento.
  
  <div align="center">
    <p><i>How to reach me:</i></p>
-   <a href="https://instagram.com/mih_tossani" target="_blank">
+   <a href="https://instagram.com/midiantossani" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
    <a href="https://wa.me/5512996569014" target="_blank">
