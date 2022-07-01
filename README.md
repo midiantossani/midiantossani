@@ -46,7 +46,6 @@ Estou estudando JavaScript e ReactJS no momento.
  ##
  
  <div align="center">
- 
     <i>How to reach me:</i><br>
     
    <a href="https://instagram.com/mih_tossani" target="_blank">
@@ -61,9 +60,6 @@ Estou estudando JavaScript e ReactJS no momento.
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
    </a> 
    
-    <a href="mailto:midianptossani@hotmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-   </a> 
-   
+
  </div>
   <br>
