@@ -1,6 +1,9 @@
 ### ALÔ! 
 My name is Midian Tossani 👋 <br>
-Estou estudando JavaScript e ReactJS no momento.
+
+I'm currently learning JavaScript and ReactJS.
+
+
 
 <div>
   <a href="https://github.com/midiantossani">
