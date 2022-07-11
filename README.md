@@ -1,11 +1,14 @@
-### ALÔ! 
-My name is Midian Tossani 👋 <br>
+<div align="center">
+<h1> Hello :D! </h1>
+<p>Welcome to my profile!<br>
+My name is <strong>Midian Tossani</strong> 👋 </p>
 
-I'm currently learning JavaScript and ReactJS.
+I'm currently learning <strong>JavaScript</strong> and <strong>ReactJS</strong>.
+</div>
 
 
 
-<div>
+<div align="center">
   <a href="https://github.com/midiantossani">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=midiantossani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midiantossani&layout=compact&langs_count=7&theme=dracula"/>
