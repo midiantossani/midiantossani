@@ -53,10 +53,10 @@ I'm currently learning <strong>JavaScript</strong> and <strong>ReactJS</strong>.
  
  <div align="center">
    <p><i>How to reach me:</i></p>
-    <a href="https://discord.gg/uFvFNSNb" target="_blank">
+    <a href="https://discord.gg/sHE36t7pSd" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a> 
-    <a href="https://www.linkedin.com/in/midian-tossani-38453915b/" target="_blank">
+    <a href="https://www.linkedin.com/in/midiantossani/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
    
